@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "PhotosCollectionViewController.collectionView(_:didSelectItemAt:):PhotosCollectionViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in DetailsViewController.viewDidLoad():DetailsViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "placesResultsJsonObj[&quot;result&quot;][&quot;price_level&quot;].int">
+            </PersistentString>
+            <PersistentString
+               value = "self.tabBarController">
+            </PersistentString>
+            <PersistentString
+               value = "placesResultsJsonObj[&quot;result&quot;]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ReviewsTableViewController.reviewSource.didset:ReviewsTableViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "reviewSource">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ResultsTableViewController.tableView(_:numberOfRowsInSection:):ResultsTableViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "places">
+            </PersistentString>
+            <PersistentString
+               value = "self.places">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "mach_msg_trap:(null)">
+         <PersistentStrings>
+            <PersistentString
+               value = "placesResultsJsonObj">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in InfoViewController.viewDidLoad():InfoViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "placeDetail">
+            </PersistentString>
+            <PersistentString
+               value = "placesResultsJsonObj">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in PlaceTableViewCell.favoriteTouched(_:):PlaceTableViewCell.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "favorited">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #2 in ReviewsTableViewController.tableView(_:cellForRowAt:):ReviewsTableViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "placesResultsJsonObj">
+            </PersistentString>
+            <PersistentString
+               value = "response.data.string">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in ResultsTableViewController.viewDidLoad():ResultsTableViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "places">
+            </PersistentString>
+            <PersistentString
+               value = "self.url">
+            </PersistentString>
+            <PersistentString
+               value = "placesResultsJsonObj[0]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in ResultsViewController.viewDidLoad():ResultsViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "placesResultsJsonObj.count">
+            </PersistentString>
+            <PersistentString
+               value = "placesResultsJsonObj.rawArray">
+            </PersistentString>
+            <PersistentString
+               value = "placesResultsJsonObj[0][&quot;results&quot;][0][&quot;name&quot;].string">
+            </PersistentString>
+            <PersistentString
+               value = "JSON(response.result.value!)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ViewController.locationManager(_:didUpdateLocations:):ViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.deviceLocation">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ResultsViewController.viewDidLoad():ResultsViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "placesResultsJsonObj">
+            </PersistentString>
+            <PersistentString
+               value = "self.url">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "FavoritesTableViewController.tableView(_:didSelectRowAt:):FavoritesTableViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "detailUrl">
+            </PersistentString>
+            <PersistentString
+               value = "favoritePlaces[indexPath.row].placeId">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "InfoViewController.viewDidLoad():InfoViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.addressText.text">
+            </PersistentString>
+            <PersistentString
+               value = "detailUrl">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in GoogleMapViewController.viewDidLoad():GoogleMapViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "directionJsonObj[&quot;routes&quot;][0][&quot;overview_polyline&quot;][&quot;points&quot;].string!">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ResultsTableViewController.viewDidLoad():ResultsTableViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.url">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ViewController.search(_:):ViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "response">
+            </PersistentString>
+            <PersistentString
+               value = "url==&quot;http://127.0.0.1:30741/~jiaruigu/hw9/index.php?Keyword=usc&amp;Category=restaurant&amp;Distance=10&amp;Location=37.785834,-122.406417&amp;Flag_LatLon=true&amp;QueryType=PlaceNearBy&quot;">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in ViewController.search(_:):ViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "url">
+            </PersistentString>
+            <PersistentString
+               value = "deviceLocation">
+            </PersistentString>
+            <PersistentString
+               value = "json[0][&quot;results&quot;][0][&quot;name&quot;].string">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "DetailsViewController.forwardTouched(_:):DetailsViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "placeDetail.addr">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ReviewsTableViewController.tableView(_:cellForRowAt:):ReviewsTableViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "placeDetail.country">
+            </PersistentString>
+            <PersistentString
+               value = "indexPath.row">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "InfoViewController.loadData():InfoViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.addressText.text">
+            </PersistentString>
+            <PersistentString
+               value = "placeDetail.addr">
+            </PersistentString>
+            <PersistentString
+               value = "self.phoneNumberText.text">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ReviewsTableViewController.tableView(_:numberOfRowsInSection:):ReviewsTableViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "placeDetail.yelpReviews">
+            </PersistentString>
+            <PersistentString
+               value = "placeDetail.googleReviews.count">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ViewController.contentChanged(_:):ViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "childViewControllers.last as FavoritesViewController">
+            </PersistentString>
+            <PersistentString
+               value = "childViewControllers">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in closure #1 in InfoViewController.viewDidLoad():InfoViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "placesResultsJsonObj[&quot;reviews&quot;].count">
+            </PersistentString>
+            <PersistentString
+               value = "placesResultsJsonObj[&quot;reviews&quot;][i][&quot;user&quot;][&quot;image_url&quot;]==nil">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "PlaceTableViewCell.favoriteTouched(_:):PlaceTableViewCell.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "favoritePlaces.count">
+            </PersistentString>
+            <PersistentString
+               value = "UIImage(named: &quot;favorite-filled.png&quot;)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
